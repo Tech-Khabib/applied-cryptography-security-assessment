@@ -138,7 +138,7 @@ Overall cryptographic architecture relies on insecure or misapplied primitives, 
 
 ## 6. Security Principle Highlight
 
-> Security failures rarely come from broken algorithms—they come from incorrect implementation and weak key management practices.
+> Security failures rarely come from broken algorithms, they come from incorrect implementation and weak key management practices.
 
 ---
 
